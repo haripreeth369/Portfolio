@@ -22,13 +22,13 @@ export const EducationTimeline = () => {
     {
       year: "2017 - 2019",
       degree: "Intermediate (MPC)",
-      institution: "Sri Chaitanya Junior College, Hyderabad",
+      institution: "Narayana Junior College, Hyderabad",
       description: "Focused on Mathematics, Physics, and Chemistry with a strong foundation in problem-solving.",
     },
     {
       year: "2016 - 2017",
       degree: "Secondary School Certificate (SSC)",
-      institution: "Narayana High School, Hyderabad",
+      institution: "Triveni Talent Scholl, Khammam",
       description: "Excelled in academics and participated in coding competitions.",
     },
   ];
