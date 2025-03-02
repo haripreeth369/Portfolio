@@ -15,7 +15,7 @@ export const EducationTimeline = () => {
   const educationData = [
     {
       year: "2019 - 2023",
-      degree: "B.Tech in Computer Science",
+      degree: "B.Tech in Electronics and Communication",
       institution: "SCSVMV University, Kanchipuram",
       description: "Graduated with a 9.3 CGPA, specializing in full-stack development and software engineering.",
     },
